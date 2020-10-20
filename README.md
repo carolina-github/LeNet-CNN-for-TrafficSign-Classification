@@ -1,7 +1,16 @@
 # LeNet-CNN-for-TrafficSign-Classification
 
-Checklist
-- The Traffic_Sign_Classifier.ipynb notebook file with all questions answered and all code cells executed and displaying output.
-- An HTML or PDF export of the project notebook with the name report.html or report.pdf.
-- Any additional datasets or images used for the project that are not from the German Traffic Sign Dataset.
-- Your writeup report as a markdown or pdf file
+Deep Traffic Sign Classification using LeNet CNN
+Author: Carolina Hoffmann-Becking Github: carolina-github
+Date: 19 Oct. 2020
+
+## Goal
+Design and implement a deep learning model that learns to recognize traffic signs from the German Traffic Sign Dataset
+Dataset source: http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
+
+## Approach
+Libraries: pickle, pandas, matpotlib, numpy, tenserflow, sklearn, cv2
+Deep Learning Architecture: LeNet Yan LeCun
+
+## Result
+95% total accuracy on traffic sign classification on test dataset
