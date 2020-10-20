@@ -1,7 +1,7 @@
 # LeNet-CNN-for-TrafficSign-Classification
 
-Deep Traffic Sign Classification using LeNet CNN
-Author: Carolina Hoffmann-Becking Github: carolina-github
+Deep Traffic Sign Classification using LeNet CNN <br>
+Author: Carolina Hoffmann-Becking Github: carolina-github <br>
 Date: 19 Oct. 2020
 
 ## Goal
